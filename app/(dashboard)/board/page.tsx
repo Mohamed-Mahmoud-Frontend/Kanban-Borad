@@ -1,5 +1,5 @@
 import Board from "@/components/board/Board";
 
-export default function Home() {
+export default function BoardPage() {
   return <Board />;
 }
